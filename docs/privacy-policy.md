@@ -1,5 +1,6 @@
 ---
 title: Política de Privacidad - InvierT
+permalink: /privacy-policy.html
 ---
 
 # Política de Privacidad de InvierT
